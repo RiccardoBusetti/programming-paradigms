@@ -30,7 +30,6 @@ edge(d,e,3.2).
 */
 
 %%%% Custom Graph %%%%
-
 edge(a,b,5).
 edge(b,c,6).
 edge(c,a,10).

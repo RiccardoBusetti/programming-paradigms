@@ -4,6 +4,7 @@
 -import(dispatcher, [dispatching_to/1, dispatch/2, dispatch_all/2]).
 -import(batch, [of_workers/3, on_workers_batch_free/1]).
 
+
 % How to run:
 % 1. Start the erlang interactive interpreter via the "erl" command.
 % 2. Compile the 3 modules (erlanger, batch, dispatcher) via the command "c(moduleName).".
